@@ -1,4 +1,4 @@
-/*
+﻿/*
 Theme Name: Accelerate Marketing
 Theme URI: http://wordpress.org/themes/twentyfourteen
 Author: the Skillcrush team
@@ -495,8 +495,9 @@ h1 {
     text-transform: uppercase;
 }
 
-#masthead nav {
+#masthead nav {	
     float: right;
+
 }
 
 #masthead nav ul {
