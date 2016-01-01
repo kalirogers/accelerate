@@ -27,23 +27,26 @@
 
 .blog-post {
 	width:50%;
+	float: left;
 }
 
 .blog-post h4 {
 	font-size: 16px;
 	font-family: 'Montserrat';
 	color: #a6a6a6;
-	text-transform: uppercase; 
+	text-transform: uppercase;
+	margin: 0px 0px 20px 0px;
 }
 
 .blog-post h2 {
 	font-size: 24px;
 	font-family: 'Montserrat';
 	font-weight: bold;
+	margin: 0px 0px 20px 0px;
 }
 
 .blog-post .read-more-link {
-	font-size: 24px;
+	font-size: 18px;
 	font-family: 'Montserrat';
 	font-weight: bold;
 	color: #45ac9d;
@@ -114,3 +117,205 @@ div.case-study {
 	width: 606px;
 	margin-bottom: 50px;
 }
+
+/* form button styles */ 
+
+#ninja_forms_field_5 {
+	width: 210px;
+	height: 65px;
+	float: right;
+	background-color: #45ab9d;
+	font-size: 18px;
+	font-family: 'Montserrat';
+	color: white;
+}
+
+#ninja_forms_field_1_div_wrap {
+	width: 48%;
+	float: left;
+	margin-right: 4%;
+}
+
+#ninja_forms_field_1 {
+	height: 42px;
+}
+
+#ninja_forms_field_2 {
+	height: 42px;
+}
+
+#ninja_forms_field_2_div_wrap {
+	width: 48%;
+	float: right;
+}
+
+#ninja_forms_form_1_wrap {
+	width: 100%;
+}
+
+.site-content-contact {
+	width: 750px;
+	margin: auto;
+}
+
+label {
+	font-style: normal;
+	font-size: 15px;
+}
+
+.about-page {
+    background: url("img/about.jpg") no-repeat center / cover;
+    height: 340px;
+    margin: 0 0 80px;
+    padding: 100px 0;
+}
+
+.about-hero {
+	text-align:center;
+}
+
+.about-hero h1 {
+	color:white;
+	font-size: 30px;	
+	font-weight: normal;
+}
+
+.menu-top-nav-container ul li {
+	text-transform: uppercase;
+	display: inline-block;
+	margin-left: 35px;
+	color: red;
+}
+
+.service-container {
+	display: block;
+	float: left;
+	margin-bottom: 50px;
+}
+
+.service-container h2 {
+	color: #3a3a3a;
+	margin: 0px;
+	padding: 0px 0px 10px 0px;
+}
+
+.service-container-image-r {
+	float: right;
+	margin-left: 25px;
+	width: 220;
+}
+
+.service-container-image-l {
+	float: left;
+	margin-right: 25px;
+	width: 220;
+}
+
+.service-container-desc-r {
+	float: right;
+	width: 700px;
+	vertical-align: top;
+}
+
+.service-container-desc-l {
+	float: left;
+	width: 700px;
+}
+
+.services {
+	margin-bottom: 100px;
+	text-align: center;
+	
+}
+
+.services h4 {
+	font-size: 16px;
+	font-family: 'Montserrat';
+	color: #3a3a3a;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.error-title {
+	font-size: 36px;
+	font-family: 'Montserrat';
+	color: #3a3a3a;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.error-img {
+	margin: 40px auto 40px auto;
+	width: 200px;
+	height:115;
+	display: block;
+	clear: clear;
+}
+
+.page-header p {
+	text-align: center;
+}
+
+
+.widget-title {
+	font-size: 16px;
+	font-family: 'Montserrat';
+	color: #a6a6a6;
+	text-transform: uppercase; 
+	margin: 0px 0px 20px 0px;
+}
+
+.twitter {
+	width:50%;
+	float: right;
+}
+
+.social-media-menu li {
+	list-style: none;
+	font-size: 15px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.callout {
+	display: block;
+	background-color: #cccccc;
+} 
+
+
+.callout-text {
+	float: left;
+	vertical-align: center;
+	height: 100px;
+}
+
+.callout-button {
+	background-color: #45ab9d;
+	width: 200px;
+	height: 50px;
+	text-align: center;
+	color: white;
+	float: right;
+	vertical-align: center;
+} 
+
+.mc4wp-form-fields label {
+	display: inline;
+	float: left;
+	margin-right: 10px;
+	vertical-align: center;
+}
+
+.mc4wp-form-fields input[type=submit] {
+	background-color: #45ab9d;
+	float: right;
+	color: white;
+}
+
+.mc4wp-form-fields input[type=email] {
+	float: left;
+	display: inline;
+	width: 200px;
+}
+
+
